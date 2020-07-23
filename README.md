@@ -1,4 +1,7 @@
 # MLCourseLab
+
+Demonstrations of Neural Network (NN) and Convoluated Neural Network (CNN) algorithms for Earthquake Classification and Detection Problems. 
+The code is intended for Education purpose. It is contributed and maintained by Tian Feng (tianfengseis@gmail.com) and Lingsen Meng (meng@epss.ucla.edu). 
  
 ## Anaconda Installation
 Check website: https://docs.anaconda.com/anaconda/install/
